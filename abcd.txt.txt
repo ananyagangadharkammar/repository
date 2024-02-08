@@ -2,7 +2,7 @@
 <head>
 <title>my webpage</title>
 </head>
-<body>
-<h1>welcomr to intrnship</h1>
+<body bgcolor="pink">
+<h1>welcomr to internship</h1>
 </body>
 </html>
